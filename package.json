@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "fetch": "^1.1.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "nodemon mainRouter.js"
+  }
+}
